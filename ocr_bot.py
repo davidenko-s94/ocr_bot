@@ -9,7 +9,6 @@ import tempfile
 import nest_asyncio
 
 # === Настройки ===
-TOKEN = "7744978032:AAHR3ODPDvxm4FD1Qi4E4KO8np6f7V27V8k"
 
 # Укажи путь к Tesseract (только для Windows)
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
